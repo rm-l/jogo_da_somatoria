@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "FURIA Fan Chat",
   description: "Chatbot não-oficial para fãs da FURIA Esports",
+  icons: {
+    icon: "/images/furiaIcon.svg",
+  },
 };
 
 export default function RootLayout({
