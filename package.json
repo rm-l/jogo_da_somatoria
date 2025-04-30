@@ -1,5 +1,5 @@
 {
-  "name": "furia-chatbot-fixed",
+  "name": "joaquim-maria",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,20 +10,18 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "canvas-confetti": "^1.9.3",
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20",
-    "@types/react": "^19",
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.17",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
     "postcss": "^8.4.35",
-    "tailwindcss": "^3.4.3",
-    "typescript": "^5"
+    "tailwindcss": "^3.4.17"
   }
 }
